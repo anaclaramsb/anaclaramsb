@@ -7,6 +7,8 @@ You can call me Ana or Annie.
 - 📫 How to reach me: anaclaramsba@gmail.com
 - ⚡ Fun fact: I love science-fiction :D
 
+[![linkedin](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=flat&logo=linkedin)](https://www.linkedin.com/in/ana-clara-batista-09942a191/)
+<br /> 
 
 ## Knowledge
 
@@ -16,6 +18,7 @@ You can call me Ana or Annie.
 [![Dart](https://img.shields.io/badge/-Dart-blue)](https://github.com/anaclaramsb/)
 [![python](https://img.shields.io/static/v1?label=&message=Python&color=0033BE&style=flat&logo=Python)](https://github.com/anaclaramsb)
 [![C](https://img.shields.io/badge/-0E0E0F?&style=flat&logo=C)](https://github.com/anaclaramsb)
+[![C++](https://img.shields.io/badge/-C++-0E0E0F?style=flat&logo=C++)](https://github.com/anaclaramsb)
 [![C++](https://img.shields.io/badge/-C++-0E0E0F?style=flat&logo=C++)](https://github.com/anaclaramsb)
 
 
