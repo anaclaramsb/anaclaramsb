@@ -1,11 +1,11 @@
-### Hello 👋 I'm Ana Clara!
+### Hello 👋 My name is Ana Clara Batista!
 -----
 You can call me Ana or Annie.
-
+- 👨‍🎓 I’m currently studying Computer Engineering on UFBA (Federal University of Bahia)
 - 🌱 I’m currently learning Python, React and Flutter
 - 💬 Ask me about anything!
 - 📫 How to reach me: anaclaramsba@gmail.com
-- ⚡ Fun fact: I love science-fiction :D
+- ⚡ Fun fact: I love science-fiction and games :D
 
 [![linkedin](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=flat&logo=linkedin)](https://www.linkedin.com/in/ana-clara-batista-09942a191/)
 <br /> 
@@ -19,7 +19,7 @@ You can call me Ana or Annie.
 [![python](https://img.shields.io/static/v1?label=&message=Python&color=0033BE&style=flat&logo=Python)](https://github.com/anaclaramsb)
 [![C](https://img.shields.io/badge/-0E0E0F?&style=flat&logo=C)](https://github.com/anaclaramsb)
 [![C++](https://img.shields.io/badge/-C++-0E0E0F?style=flat&logo=C++)](https://github.com/anaclaramsb)
-
+Java
 
 ### Mobile<br />
 [![Flutter](https://img.shields.io/badge/-Flutter-blue)](https://github.com/anaclaramsb)                                                                                                                                                                                                                                                                                                                                                                                                                                         
@@ -37,5 +37,10 @@ You can call me Ana or Annie.
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/anaclaramsb/)](https://github.com/anaclaramsb/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/anaclaramsb/)](https://github.com/anaclaramsb/)
 ![Visual Studio Code](http://img.shields.io/static/v1?label=&message=VSCode&color=4f68e8&style=flat&logo=visual-studio-code"/)
+Android Studio
+
+-----
+
+<img width="100%" height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaclaramsb&layout=compact&langs_count=16&theme=dracula"/>
 
 -----
