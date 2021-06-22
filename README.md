@@ -19,7 +19,6 @@ You can call me Ana or Annie.
 [![python](https://img.shields.io/static/v1?label=&message=Python&color=0033BE&style=flat&logo=Python)](https://github.com/anaclaramsb)
 [![C](https://img.shields.io/badge/-0E0E0F?&style=flat&logo=C)](https://github.com/anaclaramsb)
 [![C++](https://img.shields.io/badge/-C++-0E0E0F?style=flat&logo=C++)](https://github.com/anaclaramsb)
-[![C++](https://img.shields.io/badge/-C++-0E0E0F?style=flat&logo=C++)](https://github.com/anaclaramsb)
 
 
 ### Mobile<br />
