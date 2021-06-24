@@ -14,7 +14,6 @@ You can call me Ana or Annie.
 
 ### Languages<br />
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/anaclaramsb/)](https://github.com/anaclaramsb/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-59C0EA?style=flat-square&logo=typescript&link=https://github.com/anaclaramsb/)](https://github.com/anaclaramsb/)
 [![Dart](https://img.shields.io/badge/-Dart-blue)](https://github.com/anaclaramsb/)
 [![python](https://img.shields.io/static/v1?label=&message=Python&color=0033BE&style=flat&logo=Python)](https://github.com/anaclaramsb)
 [![C](https://img.shields.io/badge/-0E0E0F?&style=flat&logo=C)](https://github.com/anaclaramsb)
