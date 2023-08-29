@@ -1,8 +1,8 @@
 ### Hello 👋 My name is Ana Clara Batista!
 -----
 You can call me Ana or Annie.
-- 👨‍🎓 I’m currently studying Computer Engineering on UFBA (Federal University of Bahia)
-- 🌱 I’m currently learning and working with ReactJs, NodeJs and VueJS
+- 👨‍🎓 I'm a Computer Engineer graduated from UFBA (Federal University of Bahia - Brazil)
+- 💻 I'm currently learning and working with ReactJs with Typescript, Scala and GraphQL
 - 💬 Ask me about anything!
 - 📫 How to reach me: anaclaramsba@gmail.com
 - ⚡ Fun fact: I love science-fiction and games :D
